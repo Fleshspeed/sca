@@ -1,0 +1,43 @@
+#movie {
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+
+
+
+}
+
+#movie h1 {
+    font-size: 20px;
+    width: 200px;
+}
+
+
+#button{
+background-color: chartreuse;
+color: white;
+border-radius: 10px;
+border: black;
+width: 90px;
+height: 25px;
+margin: 30px;
+display: flex;
+align-items: center;
+}
+
+
+#input {
+    background-color: chartreuse;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    width: 200px;
+    height: 25px;
+    }
+    
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
